@@ -63,7 +63,7 @@ Grouped by what I use it *for*, not by vendor.
 
 I'm targeting roles in **Business Analytics, Decision Science, Product Analytics, Risk Analytics, and Business Intelligence,** where the job is to turn data into a decision, not just a report.
 
-Based in **St. Charles, IL.** Open to the **Chicago metro (hybrid)** and **remote across the US.**
+Based in **St. Charles, IL.** Open to the **Chicago metro** and **across the US.**
 
 - 📧 **Email:** reddysivakumar1361@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/sivakumar-reddy-yenna](https://www.linkedin.com/in/sivakumar-reddy-yenna/)
