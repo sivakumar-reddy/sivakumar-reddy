@@ -19,7 +19,7 @@ I start from the business question, not the dataset. Each project here begins wi
 
 The pattern across my work is consistent. I find the variable that actually controls the outcome (the binding constraint in a hospital, the profit-optimal lending cutoff, the carrier that quietly costs the most), and make it impossible to miss.
 
-MS in Management Information Systems, Northern Illinois University (May 2026); Computer Science and Business Systems background, GITAM University. Based in **St. Charles, IL.** Open to the **Chicago metro and remote across the US.**
+MS in Management Information Systems, Northern Illinois University (May 2026); Computer Science and Business Systems background, GITAM University. Based in **St. Charles, IL.** Open to the **Chicago metro and across the US.**
 
 ---
 
